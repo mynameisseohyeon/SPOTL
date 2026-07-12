@@ -44,6 +44,10 @@ SPOTL 백엔드는 사용자 인증, 공연 게시물, 관리자 승인, 공연 
 
 ## 현재 구현된 백엔드 기능
 
+<img width="1672" height="941" alt="ChatGPT Image 2026년 7월 12일 오후 09_14_49 (1)" src="https://github.com/user-attachments/assets/3c559a94-1cfb-4ee8-b483-a5cf52265a22" />
+<img width="1672" height="941" alt="ChatGPT Image 2026년 7월 12일 오후 09_14_49 (2)" src="https://github.com/user-attachments/assets/7bc73ebf-5625-4805-bcf3-b6029f7066a9" />
+
+
 ### 1. 사용자 인증
 
 - 휴대전화 번호 기반 회원가입
